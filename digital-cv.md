@@ -1,6 +1,6 @@
 # Igor Cunha
 
-_Full-Stack Developer and Skillful businessman based in Natal, Brazil_ <br>
+_Full-Stack Developer and Skillful businessman moving to Toronto, CA_ <br>
 
 [Email](mailto:igorcesarcunha@gmail.com) / [LinkedIn](https://www.linkedin.com/in/igor-cunha-07bb9b3b/) / [GitHub](https://github.com/iigorcunha/)
 
