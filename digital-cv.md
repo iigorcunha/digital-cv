@@ -18,7 +18,7 @@ _This section is about my career_
 ### Director @ [VVC Distribuidora](https://vvc.com.br) _(Jan 2012 - Mar 2021)_ <br>
 **Financial**
   - Keep relationship with banks to discuss about taxes and fees that impacts our company.
-  - Create and manager a debt collection, keeping the debt value in low levels.]
+  - Create and manager a debt collection, keeping the debt value in low levels.
   
 <br>
 
@@ -28,7 +28,7 @@ _This section is about my career_
 <br>
 
 **IT**
-  - Monitoring our network, configuring a Firewall that connects with the other 2 companies ( VVC Distribuidora has 3 distribuition center)
+  - Monitoring our network, configuring a Firewall that connects with the other 2 companies ( VVC Distribuidora has 3 distribuition centers)
     and protect from attacks with high level security.
   - Maintaining our server park that is managed with VMWare EXSI to keep applications work and reliable.
   - Build projects when it is needed. ( Just one project built, the website of company)
@@ -60,7 +60,6 @@ Bootcamp for development with JavaScript to be a Full-Stack developer<br>
   <br>
   
   **Frontend Mobile with React Native**
-  - create-react-app and NextJS
   - Tests with Jest
   - Redux
   - Providers
@@ -97,6 +96,7 @@ Bootcamp for development with JavaScript to be a Full-Stack developer<br>
   - SQL
   - MongoDB
   - JavaScript
+  - Dart
   
 ## 🧰 Frameworks
 
